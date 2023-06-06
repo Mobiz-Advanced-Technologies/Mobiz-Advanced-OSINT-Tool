@@ -1,4 +1,6 @@
 # Mobiz-Advanced-OSINT-Tool
+![Preview](https://github.com/Mobiz-Advanced-Technologies/Mobiz-Advanced-OSINT-Tool/blob/master/preview.png?raw=true)
+
 Experience the hengker inside of you
 
 ## How To Run?
